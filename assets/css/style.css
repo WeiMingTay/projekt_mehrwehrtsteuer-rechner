@@ -1,0 +1,16 @@
+fieldset {
+    margin: 2rem 25rem;
+}
+legend {
+    text-align: center;
+    text-transform: uppercase;
+}
+h2 {
+    margin-bottom: -0.5rem;
+}
+.btn {
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin-top: 1rem;
+}
